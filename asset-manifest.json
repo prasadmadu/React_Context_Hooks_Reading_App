@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/React_Context_Hooks_Reading_App/static/css/main.70f2a179.chunk.css",
-    "main.js": "/React_Context_Hooks_Reading_App/static/js/main.f8140274.chunk.js",
-    "main.js.map": "/React_Context_Hooks_Reading_App/static/js/main.f8140274.chunk.js.map",
-    "runtime-main.js": "/React_Context_Hooks_Reading_App/static/js/runtime-main.feac99d3.js",
-    "runtime-main.js.map": "/React_Context_Hooks_Reading_App/static/js/runtime-main.feac99d3.js.map",
-    "static/js/2.0a212094.chunk.js": "/React_Context_Hooks_Reading_App/static/js/2.0a212094.chunk.js",
-    "static/js/2.0a212094.chunk.js.map": "/React_Context_Hooks_Reading_App/static/js/2.0a212094.chunk.js.map",
+    "main.js": "/React_Context_Hooks_Reading_App/static/js/main.c51b1616.chunk.js",
+    "main.js.map": "/React_Context_Hooks_Reading_App/static/js/main.c51b1616.chunk.js.map",
+    "runtime-main.js": "/React_Context_Hooks_Reading_App/static/js/runtime-main.efebbf41.js",
+    "runtime-main.js.map": "/React_Context_Hooks_Reading_App/static/js/runtime-main.efebbf41.js.map",
+    "static/js/2.ac892187.chunk.js": "/React_Context_Hooks_Reading_App/static/js/2.ac892187.chunk.js",
+    "static/js/2.ac892187.chunk.js.map": "/React_Context_Hooks_Reading_App/static/js/2.ac892187.chunk.js.map",
     "index.html": "/React_Context_Hooks_Reading_App/index.html",
-    "precache-manifest.49346d3fdd79866e339a2dc7c905e2b4.js": "/React_Context_Hooks_Reading_App/precache-manifest.49346d3fdd79866e339a2dc7c905e2b4.js",
+    "precache-manifest.3fcae907ec8a23feb9d130a3bd7fbc2b.js": "/React_Context_Hooks_Reading_App/precache-manifest.3fcae907ec8a23feb9d130a3bd7fbc2b.js",
     "service-worker.js": "/React_Context_Hooks_Reading_App/service-worker.js",
     "static/css/main.70f2a179.chunk.css.map": "/React_Context_Hooks_Reading_App/static/css/main.70f2a179.chunk.css.map",
-    "static/js/2.0a212094.chunk.js.LICENSE.txt": "/React_Context_Hooks_Reading_App/static/js/2.0a212094.chunk.js.LICENSE.txt"
+    "static/js/2.ac892187.chunk.js.LICENSE.txt": "/React_Context_Hooks_Reading_App/static/js/2.ac892187.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.feac99d3.js",
-    "static/js/2.0a212094.chunk.js",
+    "static/js/runtime-main.efebbf41.js",
+    "static/js/2.ac892187.chunk.js",
     "static/css/main.70f2a179.chunk.css",
-    "static/js/main.f8140274.chunk.js"
+    "static/js/main.c51b1616.chunk.js"
   ]
 }
